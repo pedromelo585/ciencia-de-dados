@@ -1,6 +1,6 @@
-#Data Science
+# Data Science
 
-Esse código faz uma análise estatística descritiva de um conjunto de dados e depois visualiza a distribuição desses valores com um histograma. Vou explicar parte por parte, de forma clara.
+Esse código faz uma análise estatística descritiva de um conjunto de dados e depois visualiza a distribuição desses valores com um histograma. 
 ## Bibliotecas Utilizadas
 - **pandas**: manipulação de dados
 - **numpy**: cálculos estatísticos
